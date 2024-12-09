@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/395hwhnh0uxwp6m9?svg=true)](https://ci.appveyor.com/project/pr0100smile/test-clean)
+[![Build status](https://ci.appveyor.com/api/projects/status/hjq2f8jirin5q1k7?svg=true)](https://ci.appveyor.com/project/pr0100smile/test-match)
 
 # Домашнее задание к лекции «Unit-тестирование»
 
